@@ -80,7 +80,7 @@ We selected this opportunity because assignment deadlines are often scattered ac
 * Selected opportunity file: /docs/selected-opportunity.md
 * GitHub issue screenshot:<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ce8b1ed6-c603-4ccf-bfca-6395439f4ce6" />
 
-* Commit link: [Insert Commit Link]
+* Commit link:https://github.com/IzumiX0/ICT105-Plum0-MVP.git
 
 ### Plan for Lab 03
 
