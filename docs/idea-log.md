@@ -1,4 +1,4 @@
-# Initial IT Venture Idea Log
+# Lab-1 Initial IT Venture Idea Log
 
 ## Idea 1: Smart Assignment Tracker
 
