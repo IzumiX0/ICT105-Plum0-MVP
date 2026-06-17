@@ -3,7 +3,6 @@
 
 ## Opportunity Discovery Table
 
-## Opportunity Discovery Table
 
 | No. | Observed Problem                                                                                        | Target User           | Current Alternative                          | Possible IT Solution          | Feasible Technology          |
 | --- | ------------------------------------------------------------------------------------------------------- | --------------------- | -------------------------------------------- | ----------------------------- | ---------------------------- |
